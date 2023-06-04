@@ -792,3 +792,22 @@ body {
         margin-top: -15px !important;
     }
 }
+
+
+@media screen and (max-width:443.20px) {
+    .menu-btn-3 {
+        margin-right: -15px;
+    }
+}
+
+@media screen and (max-width:526px) {
+    .section3 .container {
+        padding-left: 50px;
+        padding-right: 50px
+    }
+
+    .section7-2nd-row {
+        padding-left: 0px !important;
+        padding-right: 0px !important
+    }
+}
